@@ -1,0 +1,68 @@
+
+	/*
+	base github
+	https://uo266047.github.io/SEW1/
+	*/
+	/*
+	base xampp
+	htt://localhost/SEW/
+	*/
+	
+
+body {
+      font: 400 15px Tahoma, sans-serif;
+      line-height: 1.8;
+      color:black ;
+      background-color: #f6f6f6;
+  }
+h1 {
+	  font: Helvetica, sans-serif;
+	  font-weight: 700;
+	  font-stretch:expanded;
+      background-image:url("multimedia/losSopranoCabecera.jpg"); 
+      color: #fff;
+      text-transform: uppercase;
+      padding: 100px 25px;
+      text-align: center;     
+  }
+  
+h2 {
+	  font: Helvetica, sans-serif;
+	  font-weight: 700;
+	  font-style: italic
+      color: black;
+      padding: 5px 5px; 
+      text-transform: uppercase;	  
+  }
+  
+ol{
+	 color:#3b83bd;
+	 list-style-type: lower-roman;
+	 
+ }
+ 
+a:link{ 
+		color:grey;
+	}
+
+a:visited{
+		color:#8c004b;
+	}
+	
+table{	
+		background-color:#fff;
+		color:#818181;
+		width:100%;
+		text-align:center;
+		
+	}
+	
+th{
+	background-color:black;
+	color:white;
+}
+	
+aside{
+		
+	}
+	
