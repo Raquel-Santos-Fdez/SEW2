@@ -53,7 +53,7 @@ nav{
 	width:100%;
 	overflow:hidden;
 	margin-bottom:1em;
-	background-color:black;
+	background-color:#FABADA;
 	clear:both;
 	position:relative;
 	top:20%;
@@ -147,6 +147,7 @@ main > aside{
 		/*position:absolute;
 		right:auto;
 		*/
+	text-align: center;  
 		float:right;
 		order:2;
 }
