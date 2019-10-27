@@ -17,13 +17,13 @@ body {
   }
 h1 {
 	font: Helvetica, sans-serif;
-	font-weight: 1000;
+	font-weight: 700;
 	font-stretch:expanded;
      	background-image:url("https://uo266047.github.io/SEW2/multimedia/losSopranoCabecera.jpg"); 
       	color: #fff;
 	font-weight: bold;
       	text-transform: uppercase;
-      	padding: 50px 12px;
+      	padding: 100px 25px;
       	text-align: center;     
   }
   
@@ -43,6 +43,7 @@ nav{
 	overflow:hidden;
 	position:relative;
 	margin-bottom:1em;
+	background-color:#FABADA;
 	clear:both;
 }
 
