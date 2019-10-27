@@ -52,11 +52,9 @@ nav{
 	border-raius: 0.5em;
 	width:100%;
 	overflow:hidden;
-	position:relative;
 	margin-bottom:1em;
 	background-color:#FABADA;
 	clear:both;
-	top:20%;
 }
 
 nav ol{
