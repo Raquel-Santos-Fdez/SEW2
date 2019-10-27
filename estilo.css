@@ -28,7 +28,7 @@ header{
 }
 
 h1 {
-	font:'Helvetica', sans-serif;
+	font-family:'Helvetica', sans-serif;
 	font-weight: 700;
 	font-stretch:expanded;
      	color: #fff;
@@ -39,7 +39,7 @@ h1 {
   }
   
 h2 {
-	font: 'Verdana', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	font-weight: 700;
 	font-style: italic;
       	color: black;
