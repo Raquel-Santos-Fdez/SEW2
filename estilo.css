@@ -91,7 +91,7 @@ footer{
     border-radius: 0.5em;
     font-weight: bold;
     color: beige;
-    background-image:linear-gradient(to right, rgb(0, 61, 165), rgb(0, 146, 165));
+    background-color:#FABADA;
     width: 100%;
 }
  
