@@ -1,14 +1,3 @@
-
-	/*
-	base github
-	https://uo266047.github.io/SEW1/
-	*/
-	/*
-	base xampp
-	htt://localhost/SEW/
-	*/
-	
-
 main{
 	display: grid;
 	grid-template-areas: 
@@ -27,24 +16,24 @@ header{
 	background-image:url("https://uo266047.github.io/SEW2/multimedia/losSopranoCabecera.jpg"); 
 }
 
-h1 {
+h1,h2,h3{
 	font-family:Helvetica, sans-serif;
 	font-weight: 700;
+	text-transform: uppercase;
+}
+
+h1 {
 	font-stretch:expanded;
      	color: #fff;
 	font-weight: bold;
-      	text-transform: uppercase;
       	padding: 100px 25px;
       	text-align: center;     
   }
   
 h2 {
-	font-family: Helvetica, sans-serif;
-	font-weight: 700;
 	font-style: italic;
       	color: black;
-      	padding: 5px 5px; 
-      	text-transform: uppercase;	  
+      	padding: 5px 5px; 	  
   }
 
 p::first-letter{
@@ -63,7 +52,7 @@ nav{
 }
 
 nav ol{
-	list-style:square;
+	
 	font-family:Helvetica, sans-serif;
 	font-size: 1.45em;
 	font-weight: bold;
@@ -74,6 +63,14 @@ nav li{
 	display:inline-block;
 	vertical-align:top;
 
+}
+
+ul{
+	list-style:square;
+}
+
+ul::marker{
+	color:red;
 }
 
 nav ol a{
