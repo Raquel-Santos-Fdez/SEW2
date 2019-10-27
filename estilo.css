@@ -67,15 +67,13 @@ nav ol{
 	font-family:Helvetica, sans-serif;
 	font-size; 1.45em;
 	font-weight: bold;
-	position:relative;
-	top:20%;
+
 }
 
 nav li{
 	display:inline-block;
 	vertical-align:top;
-	position:relative;
-	top:20%;
+
 }
 
 nav ol a{
