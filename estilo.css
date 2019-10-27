@@ -55,6 +55,8 @@ nav{
 	margin-bottom:1em;
 	background-color:#FABADA;
 	clear:both;
+	position:relative;
+	top:20%;
 }
 
 nav ol{
